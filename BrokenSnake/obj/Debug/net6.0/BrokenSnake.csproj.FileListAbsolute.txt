@@ -1,0 +1,15 @@
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.csproj.AssemblyReference.cache
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.AssemblyInfoInputs.cache
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.AssemblyInfo.cs
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.csproj.CoreCompileInputs.cache
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\bin\Debug\net6.0\BrokenSnake.exe
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\bin\Debug\net6.0\BrokenSnake.deps.json
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\bin\Debug\net6.0\BrokenSnake.runtimeconfig.json
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\bin\Debug\net6.0\BrokenSnake.dll
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\bin\Debug\net6.0\BrokenSnake.pdb
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.dll
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\refint\BrokenSnake.dll
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.pdb
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\BrokenSnake.genruntimeconfig.cache
+C:\Users\josef\Skola\4.rocnik\Leto\PokrocileProgramovani\BrokenSnake\BrokenSnake\BrokenSnake\obj\Debug\net6.0\ref\BrokenSnake.dll
