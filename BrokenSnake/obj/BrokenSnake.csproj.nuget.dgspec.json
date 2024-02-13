@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josef\\Skola\\4.rocnik\\Leto\\PokrocileProgramovani\\BrokenSnake\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj": {}
+    "C:\\Users\\pavel\\Documents\\GitHub\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josef\\Skola\\4.rocnik\\Leto\\PokrocileProgramovani\\BrokenSnake\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj": {
+    "C:\\Users\\pavel\\Documents\\GitHub\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josef\\Skola\\4.rocnik\\Leto\\PokrocileProgramovani\\BrokenSnake\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj",
+        "projectUniqueName": "C:\\Users\\pavel\\Documents\\GitHub\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj",
         "projectName": "BrokenSnake",
-        "projectPath": "C:\\Users\\josef\\Skola\\4.rocnik\\Leto\\PokrocileProgramovani\\BrokenSnake\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj",
-        "packagesPath": "C:\\Users\\josef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josef\\Skola\\4.rocnik\\Leto\\PokrocileProgramovani\\BrokenSnake\\BrokenSnake\\BrokenSnake\\obj\\",
+        "projectPath": "C:\\Users\\pavel\\Documents\\GitHub\\BrokenSnake\\BrokenSnake\\BrokenSnake.csproj",
+        "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pavel\\Documents\\GitHub\\BrokenSnake\\BrokenSnake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
